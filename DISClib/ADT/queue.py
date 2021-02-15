@@ -54,7 +54,7 @@ def newQueue(datastructure='SINGLE_LINKED'):
 
 
 def enqueue(queue, element):
-    """Agrega el elemento element en el tope de la pila
+    """Agrega el elemento element en el tope de la cola
     Args:
         queue: La cola donde se insertará el elemento
         element:  El elemento a insertar
